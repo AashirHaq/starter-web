@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aashir Haq	aashirulhaque@gmail.com @aashirhaq
 
 # THANKS
 
