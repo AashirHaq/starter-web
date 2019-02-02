@@ -15,3 +15,5 @@ As stated above, the main purpose is learning Git.
 This is deployement section.
 
 ## How to contribute
+
+Please fork this repository and issue pull request for review.
