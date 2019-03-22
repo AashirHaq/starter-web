@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home2/tvwayzerp/public_html/starter_web/
+    - /bin/cp * $DEPLOYPATH
